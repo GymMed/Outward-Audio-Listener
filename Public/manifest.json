@@ -1,0 +1,10 @@
+{
+	"name": "Audio_Listener",
+	"version_number": "0.0.1",
+	"website_url": "https://github.com/GymMed/Outward-Audio-Listener",
+	"description": "This mod lets you listen to all available sounds in Outward. It adds a menu and a custom keybinding in the settings to show or hide the menu.",
+	"dependencies": [
+		"sinai-dev-SideLoader-3.8.4",
+		"BepInEx-BepInExPack_Outward-5.4.19"
+	]
+}
